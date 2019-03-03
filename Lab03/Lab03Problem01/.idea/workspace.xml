@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0fcd5285-05c3-405b-8ab2-6819631be200" name="Default Changelist" comment="" />
+    <list default="true" id="0fcd5285-05c3-405b-8ab2-6819631be200" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem01/src/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem02/Lab04Problem02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem02/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem02/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1273/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1273/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1516/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1516/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1768/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2062/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2062/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2137/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2174/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2356/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2356/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab04/Lab04Problem01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab04/Lab04Problem01/out/production/Lab04Problem01/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem01/out/production/Lab04Problem01/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab04/Lab04Problem01/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab04/Lab04Problem01/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1768/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1768/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1768/out/production/URI_1768/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1768/out/production/URI_1768/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1768/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1768/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2137/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2137/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2137/out/production/URI_2137/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2137/out/production/URI_2137/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2137/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2137/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2174/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2174/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2174/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2174/src/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,12 +46,12 @@
     <session id="2039174355">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.1" value="7" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -45,19 +78,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="885">
+            <state relative-caret-position="774">
               <caret line="59" column="26" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Rational.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="361">
               <caret line="30" column="87" selection-start-line="30" selection-start-column="87" selection-end-line="30" selection-end-column="87" />
             </state>
           </provider>
@@ -81,6 +114,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -94,12 +130,13 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,7 +153,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,6 +201,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -199,15 +237,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
+        <state relative-caret-position="774">
           <caret line="59" column="26" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Rational.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="87" selection-start-line="30" selection-start-column="87" selection-end-line="30" selection-end-column="87" />
         </state>
       </provider>
     </entry>
@@ -219,6 +250,13 @@
             <element signature="e#437#438#0" expanded="true" />
             <element signature="e#487#488#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Rational.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="30" column="87" selection-start-line="30" selection-start-column="87" selection-end-line="30" selection-end-column="87" />
         </state>
       </provider>
     </entry>

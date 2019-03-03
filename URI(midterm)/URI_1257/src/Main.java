@@ -9,11 +9,10 @@ public class Main {
         int posValue;
         for (int i = 0; i < n; i++) {
             int line = scan.nextInt();
+            char[] values = new char[line];
             for (int j = 0; j < line; j++) {
                 char[] value = scan.next().toCharArray();
-                for (int k = 0; k < value.length; k++) {
-                    
-                }
+                values[j] = value[j];
             }
         }
     }

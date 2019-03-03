@@ -1,27 +1,36 @@
 import java.util.ArrayList;
 import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        ArrayList <Integer> list = new ArrayList<Integer>();
-        while (scan.hasNextInt()){
+
+        ArrayList<Integer> list = new ArrayList<Integer>();
+
+        while (scan.hasNextInt()) {
             list.add(scan.nextInt());
         }
 
-        Integer[] nums = new Integer[list.size()];
-        nums = list.toArray(nums);
-
         System.out.println("Before reversing:");
-        for (int i = 0; i < nums.length; i++) {
-            System.out.print(nums[i] + " ");
-        }
-
-        System.out.println();
+        print(list);
 
         System.out.println("After reversing:");
-        for (int i = nums.length - 1; i >= 0 ; i--) {
-            System.out.print(nums[i] + " ");
+        reverse(list);
+        print(list);
+    }
+
+    private static void print (ArrayList<Integer> list){
+
+        for (int i = 0; i < list.size(); i++) {
+            System.out.print(list.get(i) + " ");
         }
         System.out.println();
+    }
+    private static void reverse (ArrayList<Integer> list){
+        for (int i = list.size() - 1, j = 0; i > j; i--, j++) {
+            int t = list.get(j);
+            list.set(j, list.get(i));
+            list.set(i,t);
+        }
     }
 }
