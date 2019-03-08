@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46176157-f49c-43a8-902c-05e51068ccfd" name="Default Changelist" comment="" />
+    <list default="true" id="46176157-f49c-43a8-902c-05e51068ccfd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Lab02/Lab02Problem01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1249/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1255/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1263/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1263/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1305/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1305/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1305/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1305/URI_1305.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1305/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1551/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1551/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1607/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1607/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2157/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab02/Lab02Problem01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab02/Lab02Problem01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab02/Lab02Problem01/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab02/Lab02Problem01/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1237/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1237/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1237/out/production/URI_1237/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1237/out/production/URI_1237/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1237/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1237/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1249/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1249/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1249/out/production/URI_1249/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1249/out/production/URI_1249/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1249/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1249/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1255/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1255/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1255/out/production/URI_1255/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1255/out/production/URI_1255/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1255/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1255/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1257/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1257/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1257/out/production/URI_1257/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1257/out/production/URI_1257/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1257/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1257/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1516/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1516/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1516/out/production/URI_1516/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1516/out/production/URI_1516/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1516/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1516/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1768/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1768/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1768/out/production/URI_1768/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1768/out/production/URI_1768/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_1768/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_1768/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2157/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2157/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2157/out/production/URI_2157/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2157/out/production/URI_2157/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2174/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2174/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2174/out/production/URI_2174/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2174/out/production/URI_2174/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2174/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2174/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2242/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2242/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2242/out/production/URI_2242/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2242/out/production/URI_2242/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2242/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2242/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2253/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2253/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2356/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2356/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2356/out/production/URI_2356/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2356/out/production/URI_2356/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2356/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2356/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2484/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2484/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2484/out/production/URI_2484/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2484/out/production/URI_2484/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../URI(midterm)/URI_2484/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(midterm)/URI_2484/src/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +66,13 @@
     <session id="-1049661020">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -32,12 +87,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2158" />
+          <entry key="java" value="2168" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2158" />
+          <entry key="JAVA" value="2168" />
         </counts>
       </usages-collector>
     </session>
@@ -47,8 +102,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1785">
-              <caret line="123" column="26" selection-start-line="123" selection-start-column="26" selection-end-line="123" selection-end-column="26" />
+            <state relative-caret-position="753">
+              <caret line="78" column="11" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -62,6 +117,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -73,12 +131,12 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -86,11 +144,17 @@
               <item name="Lab01Problem01" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lab01Problem01" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Lab01Problem01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab01Problem01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,7 +202,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -172,8 +236,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="123" column="26" selection-start-line="123" selection-start-column="26" selection-end-line="123" selection-end-column="26" />
+        <state relative-caret-position="753">
+          <caret line="78" column="11" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
         </state>
       </provider>
     </entry>

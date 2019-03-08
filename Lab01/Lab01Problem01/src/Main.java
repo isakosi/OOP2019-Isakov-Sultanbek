@@ -16,22 +16,22 @@ public class Main {
     static char[][] field;
 
     //Turtle Methods
-    public static void constructTurtle() {
+    private static void constructTurtle() {
         turtleX = turtleY = 0;
         dx = 1;
         dy = 0;
         isPenDown = false;
     }
 
-    public static void putPenDown() {
+    private static void putPenDown() {
         isPenDown = true;
     }
 
-    public static void putPenUp() {
+    private static void putPenUp() {
         isPenDown = false;
     }
 
-    public static void turnLeft() {
+    private static void turnLeft() {
         int t = dx;
         dx = dy;
         dy = t;
@@ -39,7 +39,7 @@ public class Main {
         dy = -dy;
     }
 
-    public static void turnRight() {
+    private static void turnRight() {
         int t = dx;
         dx = dy;
         dy = t;
@@ -47,7 +47,7 @@ public class Main {
         dx = -dx;
     }
 
-    public static void move(int steps) {
+    private static void move(int steps) {
         for (int i = 0; i < steps; i++) {
             int nextX = turtleX + dx;
             int nextY = turtleY + dy;
@@ -67,7 +67,7 @@ public class Main {
 
 
     //Field Methods
-    public static void constructField() {
+    private static void constructField() {
         field = new char[HEIGHT][WIDTH];
         for (int y = 0; y < HEIGHT; y++) {
             for (int x = 0; x < WIDTH; x++) {
@@ -76,7 +76,7 @@ public class Main {
         }
     }
 
-    public static void printField() {
+    private static void printField() {
         for (int y = 0; y < HEIGHT; y++) {
             for (int x = 0; x < WIDTH; x++) {
                 if (x == turtleX && y == turtleY) {

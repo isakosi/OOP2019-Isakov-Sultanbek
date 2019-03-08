@@ -9,18 +9,9 @@ public class Main {
             int lenghtD = d.length();
             int lenghtS = s.length();
             boolean sr = false;
-            for (int i = 0; i < lenghtD; i++) {
-                if (d.charAt(i) == s.charAt(0)) {
-                    for (int j = 0; j < lenghtS; j++,i++) {
-                        if (d.charAt(i) == s.charAt(j)) {
-                            sr = true;
-                        } else {
-                            sr = false;
-                            break;
-                        }
-                    }
-                }
-                if (sr){
+            for (int i = 0, j = lenghtS; j <= lenghtD; i++,j++) {
+                if (d.substring(i,j).equalsIgnoreCase(s)){
+                    sr = true;
                     break;
                 }
             }

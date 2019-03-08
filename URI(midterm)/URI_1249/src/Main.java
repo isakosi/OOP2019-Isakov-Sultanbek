@@ -7,17 +7,17 @@ public class Main {
             char word[] = scan.nextLine().toCharArray();
             int lenght = word.length;
             for (int i = 0; i < lenght; i++) {
-                char wordD = word[i];
-                if (wordD >= 'a' && wordD <= 'm') {
-                    wordD += 13;
-                } else if (wordD >= 'A' && wordD <= 'M') {
-                    wordD += 13;
-                } else if (wordD >= 'n' && wordD <= 'z') {
-                    wordD -= 13;
-                } else if (wordD >= 'N' && wordD <= 'Z') {
-                    wordD -= 13;
+                char letter = word[i];
+                if (letter >= 'a' && letter <= 'm') {
+                    letter += 13;
+                } else if (letter >= 'A' && letter <= 'M') {
+                    letter += 13;
+                } else if (letter >= 'n' && letter <= 'z') {
+                    letter -= 13;
+                } else if (letter >= 'N' && letter <= 'Z') {
+                    letter -= 13;
                 }
-                System.out.print(wordD);
+                System.out.print(letter);
             }
             System.out.println();
         }

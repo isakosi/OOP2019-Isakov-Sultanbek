@@ -1,52 +1,44 @@
 import java.util.Scanner;
 
 public class Main {
-    static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
-        while (scan.hasNextLine()) {
+        Scanner scan = new Scanner(System.in);
 
-            up();
-            bottom();
-            space();
-
-        }
-    }
-
-    private static void space() {
-        System.out.println();
-    }
-
-    private static void up() {
-        int testcases = scan.nextInt();
-        String[] t = new String[testcases];
-        for (int i = 0; i < t.length; i += 2) {
-            for (int j = t.length; j > i; j--) {
-                System.out.print(" ");
-
+        while (scan.hasNextInt()) {
+            int n = scan.nextInt();
+            int bottom = 2;
+            //Top
+            for (int i = 0; i <= n; i += 2) {
+                for (int j = n; j > i; j -= 2) {
+                    if (j == n) {
+                        System.out.print("");
+                    } else {
+                        System.out.print(" ");
+                    }
+                }
+                for (int j = 0; j <= i; j++) {
+                    System.out.print("*");
+                }
+                System.out.println();
             }
-            for (int k = -1; k < i; k++) {
-                System.out.print(t[i] = "*");
-                System.out.print(" ");
-            }
-            System.out.println();
-        }
-    }
 
-    private static void bottom() {
+            //Bottom
+            for (int i = 0; i <= bottom; i += 2) {
 
-        String[] t = new String[3];
-        for (int i = 0; i < t.length; i += 2) {
-            for (int j = t.length; j > i; j--) {
-                System.out.print(" ");
-            }
-            for (int k = -1; k < i; k++) {
-                System.out.print(t[i] = "*");
-                System.out.print(" ");
+                for (int j = n; j > i; j -= 2) {
+                    if (j == n) {
+                        System.out.print("");
+                    } else {
+                        System.out.print(" ");
+                    }
+                }
+                for (int j = 0; j <= i; j++) {
+                    System.out.print("*");
+                }
+                System.out.println();
             }
             System.out.println();
-
         }
     }
-
 }

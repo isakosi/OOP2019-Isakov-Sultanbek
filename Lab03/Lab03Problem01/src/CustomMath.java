@@ -18,7 +18,7 @@ public class CustomMath {
     private CustomMath(){
 
     }
-    //GCD 2
+    //GCD
     static int gcd2(int a, int b) {
         return b == 0 ? a : gcd2(b, a % b);
     }

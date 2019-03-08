@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
+
     public static void main(String[] args) {
         Turtle turtle = new Turtle();
         Field field = new Field();

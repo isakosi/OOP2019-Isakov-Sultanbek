@@ -22,7 +22,7 @@ public class Rational {
     static Rational parse(String s) {
         String[] parts = s.split("/");
         if (parts.length == 0 || parts.length > 2){
-            throw new IllegalArgumentException("Inccorect rational:  " + s);
+            throw new IllegalArgumentException("Incorrect rational:  " + s);
         }
         try {
             if (parts.length == 1) {

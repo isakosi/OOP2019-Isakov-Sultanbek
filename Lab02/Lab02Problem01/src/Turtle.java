@@ -1,7 +1,6 @@
 public class Turtle {
     // State
 
-
     private int x, y;
     private int dx, dy;
     private boolean isPenDown;
@@ -14,6 +13,7 @@ public class Turtle {
         isPenDown = false;
     }
 
+
     public int getX() {
         return x;
     }
@@ -21,6 +21,7 @@ public class Turtle {
     public int getY() {
         return y;
     }
+
 
     void putPenUp() {
         isPenDown = false;
