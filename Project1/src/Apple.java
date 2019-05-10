@@ -1,6 +1,6 @@
 import processing.core.PApplet;
 
-public class Apple {
+class Apple {
 
     private static final int COLOR = 0xffff0000;
 
@@ -31,7 +31,7 @@ public class Apple {
         applet.rect(screenX, screenY, cellSize, cellSize);
     }
 
-    public int getX() {
+    int getX() {
         return x;
     }
 

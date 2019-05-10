@@ -1,6 +1,6 @@
 import processing.core.PApplet;
 
-public class Field {
+class Field {
     //State
     private static final int COLOR = 0xffffffff;
 

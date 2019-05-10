@@ -1,17 +1,18 @@
 import processing.core.PApplet;
 
-enum State {
-    Title,
-    Speed,
-    Game,
-    Results
-}
+//enum State {
+//    Title,
+//    Speed,
+//    Game,
+//    Results
+//}
 
 public class Main extends PApplet {
     private static final int TITLE_STATE = 0;
     private static final int SPEED_SELECTION = 1;
     private static final int GAME_STATE = 2;
     private static final int RESULTS = 3;
+    private static final int PAUSE_STATE = 4;
 
     private int state = TITLE_STATE;
 
@@ -20,7 +21,8 @@ public class Main extends PApplet {
     private Apple apple;
     private Snake snake;
 
-    private static int num;
+    private int num;
+    private int bestRes = 0;
 
     public void settings() {
         fullScreen();
@@ -52,6 +54,8 @@ public class Main extends PApplet {
                 //TODO
                 drawUpdRes();
                 break;
+            case PAUSE_STATE:
+                drawPause();
         }
     }
 
@@ -59,7 +63,7 @@ public class Main extends PApplet {
     private void drawUpdTitle() {
         background(0);
         final int TOP_MARGIN = 100;
-
+        setup();
         fill(255, 0, 0);
         textSize(80);
         textAlign(CENTER, CENTER);
@@ -126,6 +130,20 @@ public class Main extends PApplet {
         textAlign(CENTER, CENTER);
         text( snake.getBody() - 1, 160, 100);
 
+        fill(255,0,0);
+        textSize(25);
+        textAlign(CENTER, CENTER);
+        text( "Press TAB to pause", 130, 300);
+
+        fill(0);
+        textSize(30);
+        textAlign(CENTER, CENTER);
+        text( "Best result: ", 100, 400);
+
+        fill(255,0,0);
+        textSize(30);
+        textAlign(CENTER, CENTER);
+        text( bestRes, 190, 400);
 
 
 
@@ -157,6 +175,46 @@ public class Main extends PApplet {
         textAlign(CENTER, CENTER);
         text("Press ENTER to restart", width / 2, height - TOP_MARGIN);
 
+        //bestRes = snake.getBody() - 1;
+        if (bestRes < snake.getBody() - 1) {
+            bestRes = snake.getBody() - 1;
+        }
+
+        fill(255, 255, 0);
+        textSize(60);
+        textAlign(CENTER, CENTER);
+        text("Best result: ", width / 2, height - (TOP_MARGIN + 100));
+
+        fill(255, 0, 0);
+        textSize(50);
+        textAlign(CENTER, CENTER);
+        text(bestRes, width / 2 + 190, height - (TOP_MARGIN + 100));
+
+
+    }
+
+    private void drawPause() {
+        background(0);
+
+        final int TOP_MARGIN = 100;
+
+        fill(255, 255, 0);
+        textSize(50);
+        textAlign(CENTER, CENTER);
+        text("Press TAB to exit to Main Menu", width / 2, TOP_MARGIN);
+
+        fill(255, 0, 0);
+        textSize(90);
+        textAlign(CENTER, CENTER);
+        text("PAUSE", width / 2, height / 2);
+
+
+        fill(0, 255, 0);
+        textSize(50);
+        textAlign(CENTER, CENTER);
+        text("Press ENTER to continue", width / 2, height - TOP_MARGIN);
+
+
     }
 
 
@@ -173,6 +231,9 @@ public class Main extends PApplet {
                 break;
             case RESULTS:
                 keyPressedRes();
+                break;
+            case PAUSE_STATE:
+                keyPressedPause();
                 break;
         }
     }
@@ -221,6 +282,9 @@ public class Main extends PApplet {
             case RIGHT:
                 snake.turnRight();
                 break;
+            case TAB:
+                state = PAUSE_STATE;
+                break;
         }
     }
 
@@ -228,6 +292,14 @@ public class Main extends PApplet {
         if (keyCode == ENTER) {
             setup();
             state = SPEED_SELECTION;
+        }
+    }
+
+    private void keyPressedPause() {
+        if (keyCode == ENTER) {
+            state = GAME_STATE;
+        } else if (keyCode == TAB) {
+            state = TITLE_STATE;
         }
     }
 

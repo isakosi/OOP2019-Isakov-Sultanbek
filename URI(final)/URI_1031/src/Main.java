@@ -1,28 +1,33 @@
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
-    static int remain(int n, int k) {
-        int r = 0;
-        for (int i = 1; i < n; i++) {
-            r = (r + k) % i;
-        }
-        return r;
-    }
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int n;
         while ((n = scan.nextInt()) != 0) {
-            int k = 1;
-
-            for (int i = 0; i < n; i++) {
-                if (remain(n, k) != 11) {
-                    k++;
-                } else {
-                    break;
-                }
+            int m = 1;
+            while (!check(m,n)) {
+                m++;
             }
-
-            System.out.println(k);
+            System.out.println(m);
         }
+    }
+    static boolean check(int m, int n) {
+        ArrayList<Integer> list = new ArrayList<>();
+        for (int i = 1; i <= n; i++) {
+            list.add(i);
+        }
+
+        int c = 0;
+        while (list.get(c) != 13) {
+            list.remove(c);
+            c = c + m - 1;
+            if (c >= list.size()) {
+                c = c % list.size();
+            }
+        }
+        return list.size() == 1;
+
     }
 }

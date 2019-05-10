@@ -1,11 +1,12 @@
 import processing.core.PApplet;
+
 import java.awt.*;
 import java.util.ArrayList;
 
-public class Snake {
+class Snake {
     //State
 
-    private static final int COLOR = 0xff000000;
+    private static int COLOR = 0xff000000;
     private static final int COLOR_DEAD = 0xffff0000;
 
     private Field field;
@@ -63,7 +64,14 @@ public class Snake {
 
     void draw(PApplet applet) {
         float cellSize = field.getCellSize();
-        applet.fill(dead ? COLOR_DEAD : COLOR);
+
+        int red = (int) applet.random(256);
+        int green = (int) applet.random(256);
+        int blue = (int) applet.random(256);
+        for (int i = 0; i < body.size(); i++) {
+            applet.fill(red,green,blue);
+        }
+        //applet.fill(dead ? COLOR_DEAD : COLOR);
 
         for (Point bodypart : body) {
             float screenX = field.getScreenX(applet.width, bodypart.x);
@@ -72,7 +80,7 @@ public class Snake {
         }
     }
 
-    public boolean collides(int x, int y) {
+    boolean collides(int x, int y) {
         for (Point bodypart : body) {
             if (x == bodypart.x && y == bodypart.y) {
                 return true;
@@ -81,7 +89,7 @@ public class Snake {
         return false;
     }
 
-    public boolean headCollides(Apple apple) {
+    boolean headCollides(Apple apple) {
         return getX() == apple.getX() && getY() == apple.getY();
     }
 
@@ -118,11 +126,11 @@ public class Snake {
         }
     }
 
-    public boolean isDead() {
+    boolean isDead() {
         return dead;
     }
 
-    public int getBody() {
+    int getBody() {
         return body.size();
     }
 }
