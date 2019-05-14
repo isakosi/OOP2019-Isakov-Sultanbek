@@ -9,7 +9,7 @@ public class LevelSwingView extends LevelView {
 
     public void present(Object means, int width, int height) {
         Graphics g = (Graphics) means;
-
+        Image img;
 
         //TODO: Move to a seperate view class
         int cellSize = Math.min(width / level.getWidth(), height / level.getHeight());

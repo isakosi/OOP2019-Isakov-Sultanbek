@@ -2,75 +2,250 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28e50127-ad01-46ed-9d5f-bd9e79434fc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lab05/Lab05Problem03/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05/Lab05Problem03/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05/Lab05Problem04/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05/Lab05Problem04/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05/Lab05Problem05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05/Lab05Problem05/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05/Lab05Problem06/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05/Lab05Problem06/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05/Lab05Problem06/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05/Lab05Problem06/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05/Lab05Problem06/Lab05Problem06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05/Lab05Problem06/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05/Lab05Problem07/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05/Lab05Problem07/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BoxSwingView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BoxView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Level.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelSwingView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlayerSwingView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlayerView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../URI(final)/URI_1089/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../URI(final)/URI_1089/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../URI(final)/URI_1107/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../URI(final)/URI_1107/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../URI(final)/URI_1107/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../URI(final)/URI_1107/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../URI(final)/URI_1107/URI_1107.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../URI(final)/URI_1107/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../URI(final)/URI_1196/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../URI(final)/URI_1196/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../URI(final)/URI_1196/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../URI(final)/URI_1196/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../URI(final)/URI_1196/URI_1196.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../URI(final)/URI_1196/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../URI(final)/URI_1383/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../URI(final)/URI_1383/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../URI(final)/untitled/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab05/Lab05Problem02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05/Lab05Problem02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab05/Lab05Problem02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05/Lab05Problem02/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project1/out/production/Project1/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/out/production/Project1/Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project1/out/production/Project1/Field.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/out/production/Project1/Field.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project1/out/production/Project1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/out/production/Project1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project1/out/production/Project1/Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/out/production/Project1/Snake.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project1/out/production/Project1/State.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project1/src/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/src/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project1/src/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/src/Field.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project1/src/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/src/Snake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1030/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI(final)/URI_1030/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1030/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI(final)/URI_1030/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1031/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI(final)/URI_1031/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1031/out/production/URI_1031/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../URI(final)/URI_1031/out/production/URI_1031/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1031/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI(final)/URI_1031/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1104/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI(final)/URI_1104/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1104/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI(final)/URI_1104/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1136/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI(final)/URI_1136/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1136/out/production/URI_1136/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../URI(final)/URI_1136/out/production/URI_1136/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1136/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI(final)/URI_1136/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1553/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../URI(final)/URI_1553/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1553/out/production/URI_1553/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../URI(final)/URI_1553/out/production/URI_1553/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1553/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../URI(final)/URI_1553/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelSwingView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelSwingView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1140/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1140/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1140/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1140/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1140/URI_1140.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1140/out/production/URI_1140/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1140/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1192/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1192/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1192/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1192/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1192/URI_1192.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1192/out/production/URI_1192/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1192/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1216/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1216/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1216/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1216/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1216/URI_1216.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1216/out/production/URI_1216/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1216/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1387/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1387/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1387/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1387/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1387/URI_1387.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1387/out/production/URI_1387/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1387/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1397/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1397/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1397/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1397/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1397/URI_1397.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1397/out/production/URI_1397/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1397/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1467/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1467/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1467/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1467/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1467/URI_1467.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1467/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1585/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1585/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1585/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1585/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1585/URI_1585.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1585/out/production/URI_1585/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1585/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1796/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1796/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1796/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1796/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1796/URI_1796.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1796/out/production/URI_1796/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/URI_1796/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1030/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1030/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1030/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1030/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1030/URI_1030.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1030/out/production/URI_1030/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1030/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1031/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1031/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1031/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1031/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1031/URI_1031.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1031/out/production/URI_1031/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1031/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1087/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1087/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1087/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1087/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1087/URI_1087.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1087/out/production/URI_1087/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1087/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1089/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1089/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1089/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1089/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1089/URI_1089.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1089/out/production/URI_1089/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1089/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1104/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1104/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1104/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1104/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1104/URI_1104.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1104/out/production/URI_1104/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1104/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1107/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1107/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1107/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1107/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1107/URI_1107.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1107/out/production/URI_1107/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1107/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1129/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1129/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1129/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1129/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1129/URI_1129.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1129/out/production/URI_1129/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1129/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1136/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1136/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1136/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1136/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1136/URI_1136.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1136/out/production/URI_1136/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1136/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1171/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1171/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1171/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1171/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1171/URI_1171.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1171/out/production/URI_1171/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1171/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1196/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1196/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1196/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1196/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1196/URI_1196.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1196/out/production/URI_1196/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1196/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1217/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1217/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1217/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1217/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1217/URI_1217.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1217/out/production/URI_1217/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1217/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1218/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1218/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1218/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1218/URI_1218.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1218/out/production/URI_1218/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1218/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1245/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1245/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1245/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1245/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1245/URI_1245.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1245/out/production/URI_1245/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1245/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1285/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1285/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1285/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1285/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1285/URI_1285.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1285/out/production/URI_1285/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1285/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1300/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1300/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1300/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1300/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1300/URI_1300.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1300/out/production/URI_1300/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1300/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1318/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1318/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1318/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1318/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1318/URI_1318.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1318/out/production/URI_1318/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1318/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1329/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1329/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1329/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1329/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1329/URI_1329.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1329/out/production/URI_1329/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1329/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1383/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1383/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1383/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1383/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1383/URI_1383.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1383/out/production/URI_1383/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1383/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1437/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1437/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1437/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1437/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1437/URI_1437.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1437/out/production/URI_1437/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1437/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1514/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1514/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1514/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1514/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1514/URI_1514.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1514/out/production/URI_1514/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1514/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1533/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1533/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1533/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1533/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1533/URI_1533.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1533/out/production/URI_1533/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1533/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1553/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1553/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1553/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1553/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1553/URI_1553.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1553/out/production/URI_1553/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1553/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1558/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1558/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1558/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1558/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1558/URI_1558.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1558/out/production/URI_1558/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1558/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1574/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1574/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1574/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1574/URI_1574.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1574/out/production/URI_1574/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1574/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1609/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1609/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1609/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1609/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1609/URI_1609.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1609/out/production/URI_1609/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1609/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1618/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1618/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1618/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1618/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1618/URI_1618.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1618/out/production/URI_1618/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1618/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1743/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1743/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1743/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1743/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1743/URI_1743.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1743/out/production/URI_1743/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../URI(final)/Новая папка с объектами/URI_1743/src/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,32 +258,33 @@
     <session id="-1705980914">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="12" />
+          <entry key="java" value="13" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="13" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2971" />
+          <entry key="java" value="2979" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2971" />
+          <entry key="JAVA" value="2979" />
         </counts>
       </usages-collector>
     </session>
@@ -118,22 +294,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            <state relative-caret-position="700">
+              <caret line="51" column="26" lean-forward="true" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#245#246#0" expanded="true" />
@@ -146,7 +320,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Level.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
+            <state relative-caret-position="990">
               <caret line="90" column="55" selection-start-line="90" selection-start-column="55" selection-end-line="90" selection-end-column="55" />
               <folding>
                 <element signature="e#592#593#0" expanded="true" />
@@ -168,11 +342,7 @@
         <entry file="file://$PROJECT_DIR$/src/LevelView.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="45" lean-forward="true" selection-start-column="45" selection-end-column="45" />
-              <folding>
-                <element signature="e#104#105#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-              </folding>
+              <caret column="45" selection-start-column="45" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -180,12 +350,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LevelSwingView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#81#82#0" expanded="true" />
-                <element signature="e#109#110#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="390">
+              <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -194,7 +360,7 @@
         <entry file="file://$PROJECT_DIR$/src/BoxView.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
               <folding>
                 <element signature="e#82#83#0" expanded="true" />
                 <element signature="e#112#113#0" expanded="true" />
@@ -228,21 +394,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PlayerView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="45">
               <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-              <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#131#132#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PlayerSwingView.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               <folding>
                 <element signature="e#85#86#0" expanded="true" />
                 <element signature="e#114#115#0" expanded="true" />
@@ -272,17 +434,17 @@
         <option value="$PROJECT_DIR$/src/Level.java" />
         <option value="$PROJECT_DIR$/src/LevelView.java" />
         <option value="$PROJECT_DIR$/src/View.java" />
-        <option value="$PROJECT_DIR$/src/LevelSwingView.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/BoxView.java" />
         <option value="$PROJECT_DIR$/src/PlayerView.java" />
         <option value="$PROJECT_DIR$/src/PlayerSwingView.java" />
         <option value="$PROJECT_DIR$/src/BoxSwingView.java" />
         <option value="$PROJECT_DIR$/src/Utils.java" />
+        <option value="$PROJECT_DIR$/src/LevelSwingView.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="739" />
     <option name="y" value="23" />
     <option name="width" value="701" />
@@ -295,7 +457,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -312,10 +473,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557497793248" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557816712254" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -357,16 +519,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12732475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.061516453" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
@@ -377,6 +539,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -412,83 +575,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LevelSwingView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#81#82#0" expanded="true" />
-            <element signature="e#109#110#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PlayerView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#131#132#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        <state relative-caret-position="700">
+          <caret line="51" column="26" lean-forward="true" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BoxSwingView.java">
+    <entry file="file://$PROJECT_DIR$/src/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state relative-caret-position="390">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
           <folding>
-            <element signature="e#71#72#0" expanded="true" />
-            <element signature="e#97#98#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BoxView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PlayerSwingView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding>
-            <element signature="e#85#86#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Level.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
+        <state relative-caret-position="990">
           <caret line="90" column="55" selection-start-line="90" selection-start-column="55" selection-end-line="90" selection-end-column="55" />
           <folding>
             <element signature="e#592#593#0" expanded="true" />
@@ -508,22 +619,60 @@
     <entry file="file://$PROJECT_DIR$/src/LevelView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="45" lean-forward="true" selection-start-column="45" selection-end-column="45" />
+          <caret column="45" selection-start-column="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LevelSwingView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BoxView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding>
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Utils.java">
+    <entry file="file://$PROJECT_DIR$/src/BoxSwingView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        <state relative-caret-position="120">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#71#72#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PlayerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PlayerSwingView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <folding>
+            <element signature="e#85#86#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
           </folding>
         </state>
       </provider>
