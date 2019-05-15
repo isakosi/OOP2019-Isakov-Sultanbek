@@ -7,7 +7,7 @@ class Snake {
     //State
 
     private static int COLOR = 0xff000000;
-    private static final int COLOR_DEAD = 0xffff0000;
+    private static final int COLOR_DEAD = 0xffffffff;
 
     private Field field;
     private ArrayList<Point> body;

@@ -2,46 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d449087-689f-4328-bc3e-bf4ede688cb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lab05Problem03/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05Problem03/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab05Problem06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05Problem07/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1089/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1089/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1383/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1383/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem01/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem01/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab05Problem02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem02/out/production/Lab05Problem02/Main$ButtonActionListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem02/out/production/Lab05Problem02/Main$ButtonActionListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem02/out/production/Lab05Problem02/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem02/out/production/Lab05Problem02/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab05Problem02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem02/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem08/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project1/out/production/Project1/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/out/production/Project1/Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project1/out/production/Project1/Field.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/out/production/Project1/Field.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project1/out/production/Project1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/out/production/Project1/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project1/out/production/Project1/Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/out/production/Project1/Snake.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project1/out/production/Project1/State.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project1/src/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/src/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project1/src/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/src/Field.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project1/src/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/src/Snake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1031/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1031/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1031/out/production/URI_1031/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1031/out/production/URI_1031/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1031/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1031/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1104/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1104/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1104/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1104/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1136/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1136/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1136/out/production/URI_1136/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1136/out/production/URI_1136/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1136/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1136/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1553/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1553/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1553/out/production/URI_1553/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1553/out/production/URI_1553/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1553/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1553/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,10 +28,10 @@
     <session id="1664995027">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -88,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
-              <caret line="31" column="1" selection-end-line="31" selection-end-column="1" />
+              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,6 +99,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -137,7 +112,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,7 +160,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -221,7 +195,7 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="31" column="1" selection-end-line="31" selection-end-column="1" />
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

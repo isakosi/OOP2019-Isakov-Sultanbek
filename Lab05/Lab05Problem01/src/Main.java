@@ -19,8 +19,6 @@ public class Main extends JFrame {
         toolBar.add(blueB);
 
         add(toolBar, BorderLayout.SOUTH);
-
-
     }
     public static void main(String[] args) {
         JFrame frame = new Main();

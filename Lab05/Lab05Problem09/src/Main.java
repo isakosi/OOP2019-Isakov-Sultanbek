@@ -4,9 +4,8 @@ import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
 public class Main extends JFrame {
+    Canvas canvas = new Canvas();
     Model model = new Model();
-    CanvasPanel canvas = new CanvasPanel();
-
     Main() {
         canvas.setFocusable(true);
         add(canvas);
@@ -14,41 +13,43 @@ public class Main extends JFrame {
         canvas.addKeyListener(new KeyAdapter() {
             @Override
             public void keyPressed(KeyEvent e) {
-
-                if (e.getKeyCode() == KeyEvent.VK_RIGHT) {
-                    model.tryMoveRight();
-                } else if (e.getKeyCode() == KeyEvent.VK_LEFT) {
-                    model.tryMoveLeft();
-                } else if (e.getKeyCode() == KeyEvent.VK_UP) {
-                    model.tryMoveUp();
-                } else if (e.getKeyCode() == KeyEvent.VK_DOWN) {
-                    model.tryMoveDown();
+                switch (e.getKeyCode()) {
+                    case KeyEvent.VK_RIGHT:
+                        model.turnRight();
+                        break;
+                    case KeyEvent.VK_LEFT:
+                        model.turnLeft();
+                        break;
+                    case KeyEvent.VK_UP:
+                        model.turnUp();
+                        break;
+                    case KeyEvent.VK_DOWN:
+                        model.turnDown();
+                        break;
                 }
                 repaint();
             }
         });
     }
+
     public static void main(String[] args) {
         JFrame frame = new Main();
-        frame.setTitle("Move Robot");
-        frame.setSize(600,600);
+        frame.setTitle("Chessboard");
+        frame.setSize(400, 400);
         frame.setLocationRelativeTo(null);
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
-
     }
 
-    class CanvasPanel extends JPanel{
+    class Canvas extends JPanel {
         protected void paintComponent(Graphics g) {
-            super.paintComponent(g);
-
             int dw = getWidth() / 8;
             int dh = getHeight() / 8;
 
             for (int i = 0; i < 8; i++) {
+
                 for (int j = 0; j < 8; j++) {
                     Color c;
-                    if(i % 2 == 0) {
+                    if (i % 2 == 0) {
                         c = j % 2 == 0 ? Color.BLACK : Color.WHITE;
                     } else {
                         c = j % 2 == 0 ? Color.WHITE : Color.BLACK;
@@ -60,6 +61,5 @@ public class Main extends JFrame {
             g.setColor(Color.RED);
             g.fillOval(dw * model.col, dh * model.row, dw, dh);
         }
-
     }
 }

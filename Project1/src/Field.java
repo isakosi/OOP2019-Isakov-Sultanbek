@@ -3,6 +3,7 @@ import processing.core.PApplet;
 class Field {
     //State
     private static final int COLOR = 0xffffffff;
+    private static final int COLOR2 = 0x0000000;
 
     private int cellSize;
     private int width, height;
@@ -21,7 +22,11 @@ class Field {
                 float screenX = getScreenX(applet.width, x);
                 float screenY = getScreenY(applet.height, y);
 
-                applet.fill(COLOR);
+                if (y % 2 == 0 && x % 2 == 0) {
+                    applet.fill(COLOR2);
+                } else {
+                    applet.fill(COLOR);
+                }
                 applet.rect(screenX, screenY, cellSize, cellSize);
             }
         }

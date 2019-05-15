@@ -26,9 +26,8 @@ class Apple {
         float screenX = field.getScreenX(applet.width, x);
         float screenY = field.getScreenY(applet.height, y);
 
-
         applet.fill(COLOR);
-        applet.rect(screenX, screenY, cellSize, cellSize);
+        applet.ellipse(screenX + 15, screenY + 15, cellSize, cellSize);
     }
 
     int getX() {

@@ -6,9 +6,11 @@ import java.awt.event.ActionListener;
 
 public class Main extends JFrame {
     class ButtonActionListener implements ActionListener {
+        private JPanel panel;
         private Color color;
 
-        ButtonActionListener(Color color) {
+        ButtonActionListener(JPanel panel, Color color) {
+            this.panel = panel;
             this.color = color;
         }
 
@@ -17,19 +19,17 @@ public class Main extends JFrame {
         }
     }
 
-    private JPanel panel;
-
     Main() {
-        panel = new JPanel();
+        JPanel panel = new JPanel();
         panel.setBackground(Color.RED);
         JPanel toolBar = new JPanel();
         toolBar.setBackground(Color.DARK_GRAY);
         JButton redB = new JButton("RED");
-        redB.addActionListener(new ButtonActionListener(Color.RED));
+        redB.addActionListener(new ButtonActionListener(panel,Color.RED));
         JButton greenB = new JButton("GREEN");
-        greenB.addActionListener(new ButtonActionListener(Color.GREEN));
+        greenB.addActionListener(new ButtonActionListener(panel, Color.GREEN));
         JButton blueB = new JButton("BLUE");
-        blueB.addActionListener(new ButtonActionListener(Color.BLUE));
+        blueB.addActionListener(new ButtonActionListener(panel, Color.BLUE));
         setLayout(new BorderLayout());
         add(panel, BorderLayout.CENTER);
 

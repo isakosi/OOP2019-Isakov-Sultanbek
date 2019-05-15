@@ -104,7 +104,7 @@ public class Main extends PApplet {
     }
 
     private void drawUpdGame() {
-        background(255);
+        background(0);
         snake.move();
         if (snake.headCollides(apple)) {
             snake.grow();
@@ -120,7 +120,7 @@ public class Main extends PApplet {
 
         delay(100 - (num * 10));
 
-        fill(0);
+        fill(255);
         textSize(30);
         textAlign(CENTER, CENTER);
         text( "Score: ", 100, 100);
@@ -135,7 +135,7 @@ public class Main extends PApplet {
         textAlign(CENTER, CENTER);
         text( "Press TAB to pause", 130, 300);
 
-        fill(0);
+        fill(255);
         textSize(30);
         textAlign(CENTER, CENTER);
         text( "Best result: ", 100, 400);

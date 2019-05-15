@@ -2,38 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cdfc132-2c96-4fd7-a9db-2fcf0887bae1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05Problem04/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab05Problem05/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1089/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1089/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1383/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../URI(final)/URI_1383/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem01/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem01/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab05Problem02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab05Problem02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem02/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab05Problem08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab05Problem08/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project1/out/production/Project1/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/out/production/Project1/Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project1/out/production/Project1/Field.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/out/production/Project1/Field.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project1/out/production/Project1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/out/production/Project1/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project1/out/production/Project1/Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/out/production/Project1/Snake.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project1/out/production/Project1/State.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project1/src/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/src/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project1/src/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/src/Field.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project1/src/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project1/src/Snake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1031/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1031/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1031/out/production/URI_1031/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1031/out/production/URI_1031/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1031/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1031/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1104/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1104/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1104/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1104/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1136/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1136/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1136/out/production/URI_1136/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1136/out/production/URI_1136/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1136/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1136/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1553/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1553/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1553/out/production/URI_1553/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1553/out/production/URI_1553/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../URI(final)/URI_1553/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../URI(final)/URI_1553/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,9 +24,9 @@
     <session id="-2040431757">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -68,7 +46,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="753">
+            <state relative-caret-position="765">
               <caret line="51" selection-start-line="51" selection-end-line="51" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -101,8 +79,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="739" />
+    <option name="y" value="23" />
+    <option name="width" value="701" />
+    <option name="height" value="821" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -110,6 +90,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -122,11 +103,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556868529073" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557847178702" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,6 +120,20 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lab05Problem03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -156,16 +151,17 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -189,7 +185,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
+        <state relative-caret-position="765">
           <caret line="51" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="imports" expanded="true" />
